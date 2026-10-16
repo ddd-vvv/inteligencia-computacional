@@ -71,6 +71,10 @@ Python · NumPy · pandas · scikit-learn · PyTorch · Matplotlib · Seaborn ·
 
 **Diego Vega**
 
+## Licencia
+
+MIT, ver [`LICENSE`](LICENSE). Aplica solo a mis soluciones (notebooks, scripts e informes en `solution/`). No aplica a las carpetas `material/` ni al programa del curso, que pertenecen a sus autores.
+
 ## Nota
 
 Los enunciados y el programa del curso fueron elaborados por el equipo docente (profesor Javier Ruiz del Solar, auxiliar Patricio Loncomilla Z.). Los datasets pertenecen a sus fuentes originales (UCI Machine Learning Repository, UCF-iPhone). Se incluyen solo con fines educativos y de portafolio; las soluciones y los informes son de mi autoría.
